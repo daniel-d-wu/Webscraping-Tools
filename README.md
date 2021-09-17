@@ -1,4 +1,4 @@
-This repo contains two webscraping scripts
+This repo contains the following webscraping scripts
 
 
 1. "carmax_scraper.ipynb"
