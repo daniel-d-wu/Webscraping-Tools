@@ -7,7 +7,7 @@ This repo contains the following scripts that perform various webscraping activi
     This file uses BeautifulSoup to scrape all CarMax dealership locations found on CarMax's website. I wrote this program while I was an RA working on a research project aiming to study the effect of month-end dealer incentives on borrower credit scores.
     
 2. "ffiec_fips_scraper.ipynb"
-    This file uses Selenium to automate the process of searching for a county code by typing in the location address. I wrote this for fun.
+    This file uses Selenium to automate the process of searching for a county code by typing in the address of the location. I wrote this for fun.
 
 3. "factiva_master_program.ipynb"
    "factiva_procedural_commands.ipynb"
