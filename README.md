@@ -12,5 +12,5 @@ This repo contains the following scripts that perform various webscraping activi
 3. "factiva_master_program.ipynb"
    "factiva_procedural_commands.ipynb"
    "factiva_word_storage.ipynb"
-   These files use Selenium to automate the process of searching for articles/newswires on Factiva and storing text information. I wrote this as an RA for a project focusing on firm repurchase/buyback announcements and the impact it has on stock prices.
+   These files use Selenium to automate the process of searching for articles/newswires within a specific time range on Factiva and saving relevant text files. I wrote this as an RA for a project focusing on firm repurchase/buyback announcements and the impact it has on stock prices.
  
