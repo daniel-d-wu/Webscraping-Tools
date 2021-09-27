@@ -11,7 +11,7 @@ This repo contains various python scripts I wrote as an RA to automate data coll
 ## 2. "ffiec_fips_scraper.ipynb"
     This file uses Selenium to automate the process of searching for a county code by typing in the address of the location.
 
-## 3. "factiva_master_program.ipynb", "factiva_procedural_commands.ipynb", "factiva_word_storage.ipynb"
+## 3. Factiva files
    These files use Selenium to automate the process of searching for articles/newswires within a specific time range on Factiva and saving relevant text files. 
    I wrote this as an RA for a project focusing on firm equity repurchase/buyback announcements and the impact it has on their stock prices.
  
